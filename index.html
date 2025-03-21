@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Photo Gallery</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>My Photo Gallery</h1>
+        
+        <div class="gallery-controls">
+            <div class="navigation">
+                <button id="prevBtn" class="nav-btn">Previous</button>
+                <button id="nextBtn" class="nav-btn">Next</button>
+            </div>
+            <div class="filter-controls">
+                <select id="filterSelect">
+                    <option value="all">All Images</option>
+                    <option value="nature">Nature</option>
+                    <option value="city">Architecture</option>
+                    <option value="animals">Wildlife</option>
+                </select>
+                <input type="range" id="brightnessSlider" min="0" max="200" value="100">
+            </div>
+        </div>
+
+        <div id="imageGallery" class="image-gallery"></div>
+
+        <div class="modal" id="imageModal">
+            <span class="close-modal">×</span>
+            <img id="modalImage" src="" alt="">
+            <div class="modal-caption"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 
