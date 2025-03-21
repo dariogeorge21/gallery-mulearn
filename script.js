@@ -2,93 +2,93 @@
 const images = [
     {
         id: 1,
-        src: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb',
-        category: 'nature',
-        caption: 'Misty Mountains'
+        src: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330',
+        category: 'kids',
+        caption: 'Kid with Silly Face'
     },
     {
         id: 2,
-        src: 'https://images.unsplash.com/photo-1449824913935-59a10b8d2000',
-        category: 'city',
-        caption: 'Modern Architecture'
+        src: 'https://images.unsplash.com/photo-1533738363-b7f9aef128ce',
+        category: 'animals',
+        caption: 'Laughing Horse'
     },
     {
         id: 3,
-        src: 'https://images.unsplash.com/photo-1474511320723-9a56873867b5',
+        src: 'https://images.unsplash.com/photo-1612536057832-2ff7ead58194',
         category: 'animals',
-        caption: 'Wild Fox'
+        caption: 'Funny Cow Pose'
     },
     {
         id: 4,
-        src: 'https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5',
-        category: 'nature',
-        caption: 'Autumn Forest'
+        src: 'https://images.unsplash.com/photo-1602491453631-e2a5ad90a131',
+        category: 'kids',
+        caption: 'Baby Food Mess'
     },
     {
         id: 5,
-        src: 'https://images.unsplash.com/photo-1477959858617-67f85cf4f1df',
-        category: 'city',
-        caption: 'City Lights'
+        src: 'https://images.unsplash.com/photo-1517849845537-4d257902454a',
+        category: 'animals',
+        caption: 'Dog with Sunglasses'
     },
     {
         id: 6,
-        src: 'https://images.unsplash.com/photo-1546182990-dffeafbe841d',
+        src: 'https://images.unsplash.com/photo-1540573133985-87b6da6d54a9',
         category: 'animals',
-        caption: 'Mountain Lion'
+        caption: 'Laughing Monkey'
     },
     {
         id: 7,
-        src: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e',
-        category: 'nature',
-        caption: 'Coastal Sunset'
+        src: 'https://images.unsplash.com/photo-1637858868799-7f26a0640eb6',
+        category: 'kids',
+        caption: 'Playground Fail'
     },
     {
         id: 8,
-        src: 'https://images.unsplash.com/photo-1519501025264-65ba15a82390',
-        category: 'city',
-        caption: 'Urban Geometry'
+        src: 'https://images.unsplash.com/photo-1535591273668-578e31182c4f',
+        category: 'fails',
+        caption: 'Beach Splash Fail'
     },
     {
         id: 9,
-        src: 'https://images.unsplash.com/photo-1561037404-61cd46aa615b',
+        src: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba',
         category: 'animals',
-        caption: 'Arctic Wolf'
+        caption: 'Playful Cat'
     },
     {
         id: 10,
-        src: 'https://images.unsplash.com/photo-1531366936337-7c912a4589a7',
-        category: 'nature',
-        caption: 'Northern Lights'
+        src: 'https://images.unsplash.com/photo-1513360371669-4adf3dd7dff8',
+        category: 'kids',
+        caption: 'Messy Ice Cream'
     },
     {
         id: 11,
-        src: 'https://images.unsplash.com/photo-1514924013411-cbf25faa35bb',
-        category: 'city',
-        caption: 'Night City'
+        src: 'https://images.unsplash.com/photo-1583512603805-3cc6b41f3edb',
+        category: 'animals',
+        caption: 'Silly Duck Face'
     },
     {
         id: 12,
-        src: 'https://images.unsplash.com/photo-1549366021-9f761d450615',
-        category: 'animals',
-        caption: 'Bengal Tiger'
+        src: 'https://images.unsplash.com/photo-1520808663317-647b476a81b9',
+        category: 'fails',
+        caption: 'Coffee Spill Moment'
     },
     {
         id: 13,
-        src: 'https://images.unsplash.com/photo-1509316785289-025f5b846b35',
-        category: 'nature',
-        caption: 'Desert Dunes'
+        src: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31',
+        category: 'animals',
+        caption: 'Dancing Monkey'
     },
     {
         id: 14,
-        src: 'https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9',
-        category: 'city',
-        caption: 'City Skyline'
+        src: 'https://images.unsplash.com/photo-1463852247062-1bbca38f7805',
+        category: 'animals',
+        caption: 'Monkey Making Faces'
     },
     {
         id: 15,
-        src: 'https://images.unsplash.com/photo-1564760055775-d63b17a55c44',
-        category: 'animals',
-        caption: 'Wild Elephant'
+        src: 'https://images.unsplash.com/photo-1525253013412-55c1a69a5738',
+        category: 'fails',
+        caption: 'Cake Fail'
     }
 ];
 
